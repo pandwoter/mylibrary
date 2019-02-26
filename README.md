@@ -14,3 +14,4 @@
 - [ ] Introduction to Website Design and Development: HTML5, CSS3, and JavaScript Fourth Edition (Don Colton)
 - [ ] The Linux Command Line (William Shotts)
 - [ ] Mastering Regular Expressions (Jeffrey E. F. Friedl)
+- [ ] Learning Vue.js (Olga Filipova)
