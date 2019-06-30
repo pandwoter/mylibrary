@@ -16,3 +16,4 @@
 - [ ] The Linux Command Line (William Shotts)
 - [ ] Mastering Regular Expressions (Jeffrey E. F. Friedl)
 - [ ] Learning Vue.js (Olga Filipova)
+- [ ] Two Scoops of Django: Best Practices for Django 1.5 (Daniel Greenfeld)
