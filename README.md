@@ -17,7 +17,4 @@
 - [ ] Mastering Regular Expressions (Jeffrey E. F. Friedl)
 - [ ] Learning Vue.js (Olga Filipova)
 - [ ] Two Scoops of Django: Best Practices for Django 1.5 (Daniel Greenfeld)
-
-## OSSU courses:
-
-- [ ] How to Code: Simple Data
+- [ ] Structure and Interpretation of Computer Programs (Harold Abelson, Gerald Jay Sussman)
