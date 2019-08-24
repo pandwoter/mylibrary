@@ -13,7 +13,6 @@
 - [ ] Python Cookbook (David Beazley, Brian K. Jones)
 - [ ] Structure and Interpretation of Computer Programs (Harold Abelson, Gerald Jay Sussman)
 - [ ] Алгоритмы Построение и Анализ (Т. Кормен, Р. Ривест)
-- [ ] Изучаем работу с jQuery (Райан Бенедетти, Ронан Кранли)
 - [ ] Go in Practice (Matt Butcher, Matt Farina)
 - [ ] Mastering Regular Expressions (Jeffrey E. F. Friedl)
-- [ ] Structure and Interpretation of Computer Programs (Harold Abelson, Gerald Jay Sussman)
+
