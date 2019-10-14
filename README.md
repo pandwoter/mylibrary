@@ -8,6 +8,7 @@
 - [x] Introduction to Tornado (Michael Dory, Allison Parrish, Brendan Berg)
 - [x] The Well-Grounded Rubyist (David A. Black)
 - [x] Docker in Practice (Ian Miell)
+- [x] The Linux Command Line (William Shotts)
 
 ### Read ASAP
 - [ ] Python Microservices Development (Tarek Ziadé)
@@ -15,8 +16,6 @@
 - [ ] Parallel Programming with Python (Jan Palach)
 - [ ] Python Cookbook (David Beazley, Brian K. Jones)
 ###
-
-- [ ] The Linux Command Line (William Shotts)
 - [ ] Two Scoops of Django: Best Practices for Django 1.5 (Daniel Greenfeld)
 - [ ] Structure and Interpretation of Computer Programs (Harold Abelson, Gerald Jay Sussman)
 - [ ] Алгоритмы Построение и Анализ (Т. Кормен, Р. Ривест)
