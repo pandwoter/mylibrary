@@ -9,13 +9,11 @@
 - [x] The Well-Grounded Rubyist (David A. Black)
 - [x] Docker in Practice (Ian Miell)
 - [x] The Linux Command Line (William Shotts)
-
-### Read ASAP
+- [x] Agile Web Development with Rails 5 (Sam Ruby)
 - [ ] Python Microservices Development (Tarek Ziadé)
 - [ ] Microservices in action (Morgan Bruce)
 - [ ] Parallel Programming with Python (Jan Palach)
 - [ ] Python Cookbook (David Beazley, Brian K. Jones)
-###
 - [ ] Two Scoops of Django: Best Practices for Django 1.5 (Daniel Greenfeld)
 - [ ] Structure and Interpretation of Computer Programs (Harold Abelson, Gerald Jay Sussman)
 - [ ] Алгоритмы Построение и Анализ (Т. Кормен, Р. Ривест)
