@@ -14,6 +14,6 @@
 
 
 ### 2020
-- [] The Rails 5 way (Obie Fernandez)
-- [] React in action (Mark Tielens Thomas)
-- [] Ruby under microscope (Pat Shaughnessy)
+- [ ] The Rails 5 way (Obie Fernandez)
+- [ ] React in action (Mark Tielens Thomas)
+- [ ] Ruby under microscope (Pat Shaughnessy)
