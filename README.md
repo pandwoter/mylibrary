@@ -1,5 +1,6 @@
 ## My books:
 
+### 2018/2019
 - [x] Язык SQL. Базовый курс (Е.П. Моргунов)
 - [x] Объектно-ориентированное программирование в С++ (Р. Лафор)
 - [x] How to tango with Django (Leif Azzopardi, David Maxwell)
@@ -10,13 +11,9 @@
 - [x] Docker in Practice (Ian Miell)
 - [x] The Linux Command Line (William Shotts)
 - [x] Agile Web Development with Rails 5 (Sam Ruby)
-- [ ] Python Microservices Development (Tarek Ziadé)
-- [ ] Microservices in action (Morgan Bruce)
-- [ ] Parallel Programming with Python (Jan Palach)
-- [ ] Python Cookbook (David Beazley, Brian K. Jones)
-- [ ] Two Scoops of Django: Best Practices for Django 1.5 (Daniel Greenfeld)
-- [ ] Structure and Interpretation of Computer Programs (Harold Abelson, Gerald Jay Sussman)
-- [ ] Алгоритмы Построение и Анализ (Т. Кормен, Р. Ривест)
-- [ ] Go in Practice (Matt Butcher, Matt Farina)
-- [ ] Mastering Regular Expressions (Jeffrey E. F. Friedl)
 
+
+### 2020
+- [] The Rails 5 way (Obie Fernandez)
+- [] React in action (Mark Tielens Thomas)
+- [] Ruby under microscope (Pat Shaughnessy)
