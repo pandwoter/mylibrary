@@ -7,13 +7,14 @@
 - [x] Learning Python Network Programming (Sam Washington)
 - [x] Скрапинг веб-сайтов с помощью Python (Р. Митчелл)
 - [x] Introduction to Tornado (Michael Dory, Allison Parrish, Brendan Berg)
-- [x] The Well-Grounded Rubyist (David A. Black)
+- [x] The Well-Grounded Rubyist 2nd edition (David A. Black)
 - [x] Docker in Practice (Ian Miell)
 - [x] The Linux Command Line (William Shotts)
 - [x] Agile Web Development with Rails 5 (Sam Ruby)
 
 
 ### 2020
+- [x] The Well-Grounded Rubyist 3rd edition (David A. Black)
 - [ ] The Rails 5 way (Obie Fernandez)
 - [ ] React in action (Mark Tielens Thomas)
 - [ ] Ruby under microscope (Pat Shaughnessy)
