@@ -15,6 +15,6 @@
 
 ### 2020
 - [x] The Well-Grounded Rubyist 3rd edition (David A. Black)
-- [ ] The Rails 5 way (Obie Fernandez)
-- [ ] React in action (Mark Tielens Thomas)
-- [ ] Ruby under microscope (Pat Shaughnessy)
+- [x] Learning React Functional Web Development with React and Redux (Alex Banks and Eve Porcello)
+- [x] Learning PostgreSQL (Achim Vannahme, Andrey Volkov, Salahaldin Juba)
+- [ ] Node.js Web Development 4th edition (David Herron)
