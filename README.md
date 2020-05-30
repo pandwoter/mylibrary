@@ -17,4 +17,6 @@
 - [x] The Well-Grounded Rubyist 3rd edition (David A. Black)
 - [x] Learning React Functional Web Development with React and Redux (Alex Banks and Eve Porcello)
 - [x] Learning PostgreSQL (Achim Vannahme, Andrey Volkov, Salahaldin Juba)
-- [ ] Node.js Web Development 4th edition (David Herron)
+- [x] Node.js Web Development 4th edition (David Herron)
+- [x] CS 241: System Programming coursebook by Illinois University 
+- [ ] Introducing Go (Caleb Doxsey)
