@@ -19,5 +19,6 @@
 - [x] Learning PostgreSQL (Achim Vannahme, Andrey Volkov, Salahaldin Juba)
 - [x] Node.js Web Development 4th edition (David Herron)
 - [x] CS 241: System Programming coursebook by Illinois University 
-- [ ] Introducing Go (Caleb Doxsey)
+- [x] Introducing Go (Caleb Doxsey)
 - [ ] Building Microservices with Go (Nic Jackson)
+- [ ] BLACK HAT GO (Tom Steele, Chris Patten, and Dan Kottmann)
