@@ -20,5 +20,8 @@
 - [x] Node.js Web Development 4th edition (David Herron)
 - [x] CS 241: System Programming coursebook by Illinois University 
 - [x] Introducing Go (Caleb Doxsey)
-- [ ] Building Microservices with Go (Nic Jackson)
-- [ ] BLACK HAT GO (Tom Steele, Chris Patten, and Dan Kottmann)
+- [x] Building Microservices with Go (Nic Jackson)
+- [x] Building Progressive Web Applications with Vue.js (Carlos Rojas)
+- [ ] Structure and Interpretation of Computer Programs (Harold Abelson and Gerald Jay Sussman with Julie Sussman)
+- [ ] The Elements of Computing Systems (Noam Nisan Shimon Schocken)
+- [ ] Go Programming Language (Alan A. A. Donovan)
