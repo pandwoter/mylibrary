@@ -26,6 +26,6 @@
 - [ ] Ruby under microscope (Pat Shaughnessy)
 - [ ] Design Patterns in Ruby (Russ Olsen)
 - [ ] Mongodb in Action (Kyle Banker) 
+- [ ] Learn functional programming with Elixir (Ulisses Almeida) 
 - [ ] Structure and Interpretation of Computer Programs (Harold Abelson and Gerald Jay Sussman with Julie Sussman)
 - [ ] The Elements of Computing Systems (Noam Nisan Shimon Schocken)
-- [ ] Go Programming Language (Alan A. A. Donovan)
