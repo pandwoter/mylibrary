@@ -26,7 +26,7 @@
 - [x] Ruby under microscope (Pat Shaughnessy)
 - [x] Design Patterns in Ruby (Russ Olsen)
 - [ ] C Programming Language (Dennis M. Ritchie)
-- [ ] Clean Architecture (Robert C. Martin)
+- [x] Clean Architecture (Robert C. Martin)
 - [ ] Clean Code (Robert C. Martin)
 - [ ] Modern Operating Systems (Andrew Tanenbaum)
 - [ ] Structured Computer Organization (Andrew Tanenbaum)
