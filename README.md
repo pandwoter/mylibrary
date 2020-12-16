@@ -25,6 +25,7 @@
 - [x] Ruby Science (Joe Ferris)
 - [x] Ruby under microscope (Pat Shaughnessy)
 - [x] Design Patterns in Ruby (Russ Olsen)
+- [x] PostgreSQL 11 Мастерство разработки (Г.Ю. Шениг)
 - [ ] C Programming Language (Dennis M. Ritchie)
 - [x] Clean Architecture (Robert C. Martin)
 - [ ] Clean Code (Robert C. Martin)
