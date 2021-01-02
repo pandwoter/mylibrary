@@ -26,8 +26,12 @@
 - [x] Ruby under microscope (Pat Shaughnessy)
 - [x] Design Patterns in Ruby (Russ Olsen)
 - [x] PostgreSQL 11 Мастерство разработки (Г.Ю. Шениг)
-- [ ] C Programming Language (Dennis M. Ritchie)
 - [x] Clean Architecture (Robert C. Martin)
+- [x] The Go Programming Language (Alan Donovan, Brian Kernighan)
+
+
+### 2021
+- [ ] C Programming Language (Dennis M. Ritchie)
 - [ ] Clean Code (Robert C. Martin)
 - [ ] Modern Operating Systems (Andrew Tanenbaum)
 - [ ] Structured Computer Organization (Andrew Tanenbaum)
