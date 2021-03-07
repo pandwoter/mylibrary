@@ -31,6 +31,7 @@
 
 
 ### 2021
+- [x] Design Patterns: Elements of Reusable Object-Oriented Software (Gang of Four)
 - [ ] C Programming Language (Dennis M. Ritchie)
 - [ ] Clean Code (Robert C. Martin)
 - [ ] Modern Operating Systems (Andrew Tanenbaum)
